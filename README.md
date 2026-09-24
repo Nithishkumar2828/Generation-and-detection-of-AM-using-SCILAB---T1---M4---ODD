@@ -87,9 +87,9 @@ Compare the original modulating signal with the demodulated signal.
 
 **Modulated Signal:**
 
-* Emax =
-* Emin =
-
+* Emax = 60
+* Emin = 20
+  
 # PROGRAM 
 <img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 29 34 PM" src="https://github.com/user-attachments/assets/5641be91-1730-45f2-a26e-6ea06dfacd9f" />
 
