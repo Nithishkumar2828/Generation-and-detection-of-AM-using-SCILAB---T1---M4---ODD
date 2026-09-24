@@ -83,24 +83,32 @@ Compare the original modulating signal with the demodulated signal.
 * Verify the generated waveform using Tabulation and Model Waveform.
 
 # TABULATION
-
-| Sl. No. | Signal             | Amplitude (V) Theory | Amplitude (V) Practical | Frequency (Hz) Theory | Frequency (Hz) Practical |
-| ------- | ------------------ | -------------------- | ----------------------- | --------------------- | ------------------------ |
-| 1       | Message Signal     |                      |                         |                       |                          |
-| 2       | Carrier Signal     |                      |                         |                       |                          |
-| 3       | Modulated Signal   |                      |                         |                       |                          |
-| 4       | Demodulated Signal |                      |                         |                       |                          |
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 29 22 PM" src="https://github.com/user-attachments/assets/8951fbcd-130d-43de-ba7b-519122d1f750" />
 
 **Modulated Signal:**
 
 * Emax =
 * Emin =
 
+# PROGRAM 
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 29 34 PM" src="https://github.com/user-attachments/assets/5641be91-1730-45f2-a26e-6ea06dfacd9f" />
+
+
 # CALCULATION
 
-1. **ma (Theory) = am/ac =**
+1. **ma (Theory) = am/ac = 0.5
 
-2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =**
+2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =0.5
+
+# GRAPH
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 29 43 PM" src="https://github.com/user-attachments/assets/665b7f1a-7105-4b21-96d8-d5fb22b99fab" />
+
+# RESULT
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 30 16 PM" src="https://github.com/user-attachments/assets/d36bdc06-9f49-4f78-be4e-c49056d886a6" />
+
+# MARK ALLOCATION
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 31 52 PM" src="https://github.com/user-attachments/assets/d3b887fe-b3bf-42ce-ac16-24ebbe640c8d" />
 
 
 
